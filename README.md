@@ -35,6 +35,10 @@ The best way yo start with Onesait Platform is accesing our [Developer Portal](h
 For the quick start you can start watching one of the [Introductory Videos](https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/31424597/Introductory+Videos)
 or perhaps you prefer to work with the Platform, then follow our [Getting Started Guide](https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/33179/Getting+Started)
 
+Of you want to execute Onesait Platform with Docker go to [Our Repository](https://github.com/onesaitplatform/onesait-cloud-platform-community-deploy)
+If you want to download code and execute the platform you can follow [this guide](
+https://onesaitplatform.atlassian.net/wiki/spaces/OP/pages/4194325/Deployment+How+to+compile+and+execute+the+platform+with+Docker)
+
 
 ## Getting help
 
